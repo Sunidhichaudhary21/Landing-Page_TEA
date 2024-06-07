@@ -1,1 +1,2 @@
 # Landing-Page_TEA
+This project is a visually appealing landing page dedicated to tea enthusiasts. It aims to introduce visitors to various types of tea, their benefits, and promote a community of tea lovers. The landing page is crafted using HTML for structure, CSS for styling, and JavaScript for interactive elements. The page is designed to be responsive, ensuring a seamless user experience across different devices.
